@@ -1,2 +1,2 @@
-# video-presenations
-AssistOS : Video Presenation folder
+# video-presentaions
+AssistOS : Video Presentations projects 
